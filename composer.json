@@ -1,0 +1,12 @@
+{
+	"name": "ptica/handlebars",
+	"type": "cakephp-plugin",
+	"description": "CakePHP view class with support for Lightncandy handlebars php renderer",
+	"homepage": "http://github.com/ptica/Handlebars",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.3.0",
+		"zordius/lightncandy": "0.16",
+		"composer/installers": "*"
+	}
+}
