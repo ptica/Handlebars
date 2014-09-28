@@ -1,7 +1,7 @@
 Handlebars
 ==========
 
-A CakePHP View class that renders Elements with `*.hbs` via (Lightncandy)[https://github.com/zordius/lightncandy]
+A CakePHP View class that renders Elements with `*.hbs` via [Lightncandy](https://github.com/zordius/lightncandy)
 renderer
 
 Usage
